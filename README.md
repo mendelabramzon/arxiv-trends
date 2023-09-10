@@ -44,5 +44,3 @@ Replace `<YOUR_KEYWORD>` with the keyword you want to search for. The script wil
 This project is open-source and available under the MIT License.
 
 ---
-
-You can save the above content to a `README.md` file in the same directory as your command-line tool. This README provides a brief overview, installation instructions, usage details, and other essential information for users of the tool.
