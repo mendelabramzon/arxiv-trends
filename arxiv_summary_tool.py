@@ -4,7 +4,7 @@ import openai
 import argparse
 
 # Initialize OpenAI API
-openai.api_key = ''
+openai.api_key = 'YOUR_OPENAI_API_KEY'
 
 ARXIV_API_URL = "http://export.arxiv.org/api/query?"
 
